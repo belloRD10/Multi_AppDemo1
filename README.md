@@ -63,9 +63,9 @@ Developed as part of a BSCS learning project to demonstrate interactive web app 
 
 📜 License<br>
 This project is for educational purposes only.<br>
-________________________________________
+
 💡 Acknowledgment<br>
 Inspired by modern trends in interactive learning systems and computational applications.<br>
-________________________________________
+
 ⭐ Feel free to fork, improve, and share this project!<br>
 
